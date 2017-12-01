@@ -1,0 +1,10 @@
+inicio(){
+	
+entero a :=3+3;
+cadena b := "Hector";
+
+}
+fin
+
+circulo (10, 20, 20, "rojo");
+triangulo(10,5.5,40,50,"amarillo");

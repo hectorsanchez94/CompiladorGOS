@@ -1,0 +1,12 @@
+inicio () {
+decimal a:= 12;
+entero a;
+}fin 
+
+coordenada (3,5);
+rectangulo (12,34);
+color ("rojo");
+circulo (12.9);
+triangulo (1);
+escribir ("asd");
+linea (4);
